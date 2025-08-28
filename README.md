@@ -1,4 +1,5 @@
 📈 Retail Sales Report – Excel Analysis
+
 📌 Project Overview
 
 This project analyzes retail sales data using Excel to generate actionable business insights.
